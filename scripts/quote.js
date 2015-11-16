@@ -4,7 +4,7 @@
 // Dependencies:
 //   underscore: ~1.7.0
 //   natural: ~0.1.28
-//   msgpack: ~0.2.4
+//   msgpack: ~1.0.2
 //
 // Configuration:
 //   HUBOT_QUOTE_CACHE_SIZE=N - Cache the last N messages for each user for potential remembrance (default 25).
